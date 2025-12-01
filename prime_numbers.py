@@ -14,3 +14,5 @@ print(prime(number))
 
 # for i in range(2,3):
 #     print(i)
+
+# asked in V4C.ai 
